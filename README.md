@@ -8,7 +8,7 @@ Python3.5</br>
 xlsxwriter
 
 # Usage
-python3 DataCompare.py [precheck folder] [postcheck folder] [Output file name]
+    python3 DataCompare.py [precheck folder] [postcheck folder] [Output file name]
 
 # Future work
 Add graphic user interface(GUI) to make file choice easier
