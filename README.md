@@ -5,9 +5,10 @@ Based on the criteria normed by 3GPP. This can help you find desire MO and attri
 
 # System Requirement
 Python3.5
+xlsxwriter
 
 # Usage
-python3 DataCompare.py
+python3 DataCompare.py [precheck folder] [postcheck folder]
 
 # Future work
 Add graphic user interface(GUI) to make file choice easier
